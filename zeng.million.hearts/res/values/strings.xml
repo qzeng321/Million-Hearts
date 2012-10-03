@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MainActivity</string>
+    <string name="app_name">8 Qs to Save 1 Million Hearts</string>
+    <string name="age">What is your age?</string>
+    <string name="send">Enter</string>
+    <string name="display_message">This displays something</string>
 </resources>
