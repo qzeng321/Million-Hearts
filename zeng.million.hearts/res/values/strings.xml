@@ -4,4 +4,6 @@
     <string name="age">What is your age?</string>
     <string name="send">Enter</string>
     <string name="display_message">This displays something</string>
+    <string name="gender">Gender</string>
+    <string name="smoke">Do you smoke currently?</string>
 </resources>
